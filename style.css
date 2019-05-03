@@ -1,0 +1,14 @@
+header {
+	width: 100%;
+}
+#logo {
+	/*max-width: 600px;*/
+	max-height: 200px;
+	align-self: center;
+}
+#logoContainer {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: fit-content;
+
+}
